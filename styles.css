@@ -4,11 +4,11 @@
 }
 
 body {
-  background-image: url("./bg1.jpg");
+  background-color: #453F78;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: 'Indie Flower', 'Comic Sans', cursive;
+  font-family: sans-serif;
 }
 
 html {
@@ -18,7 +18,7 @@ html {
 #heading {
   text-align: center;
     margin-top: 15px;
-  color: white;
+  color: #FFC94A;
   font-size: 8rem;
 }
 
@@ -74,7 +74,7 @@ html {
   font-size: 3rem;
   text-align: center;
   border: none;
-  background: #ed4e6e;
+  background: #C08B5C;
   color: #fff;
   font-size: 2em;
   letter-spacing: 1px;
@@ -86,7 +86,7 @@ html {
 }
 
 #reset:hover {
-  background: #2c3e52;
+  background: #795458;
 }
 
 #information {
@@ -94,7 +94,7 @@ html {
   justify-content: space-evenly;
   align-items: center;
   margin-top: 6rem;
-  color: white;
+  color: #FFC94A;
 }
 
 #player-turn {
